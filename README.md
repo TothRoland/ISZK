@@ -1,0 +1,2 @@
+# ISZK
+Reszponzív_oldal
