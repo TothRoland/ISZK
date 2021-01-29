@@ -52,3 +52,34 @@ table {
 .post {
     background-color: rgba(255, 0, 0, .3);
 }
+
+/*Base styles*/
+body {
+	font-family: Merriweather, 'Times New Roman', serif;
+}
+
+h1, h2 {
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+
+
+body {
+	font-size: 18px;
+	line-height: 32px;
+	color: #333;
+}
+
+h1 {
+	font-size: 28.8px;
+}
+
+h2 {
+	font-size: 25.6px;
+	color: #e5127d;
+}
+
+.main-header, p {
+	font-size: 18px;
+	letter-spacing: 2px;
+	color: #8c8e9b;
+}
