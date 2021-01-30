@@ -56,30 +56,30 @@ table {
 /*Base styles*/
 body {
 	font-family: Merriweather, 'Times New Roman', serif;
+	font-size: 1.125rem;
+	line-height: 2rem;
+	color: #333;
 }
 
 h1, h2 {
 	font-family: 'Open Sans', Arial, sans-serif;
 }
 
-
-body {
-	font-size: 18px;
-	line-height: 32px;
-	color: #333;
-}
-
 h1 {
-	font-size: 28.8px;
+	font-size: 1.8rem;
 }
 
 h2 {
-	font-size: 25.6px;
+	font-size: 1.6rem;
 	color: #e5127d;
 }
 
 .main-header, p {
-	font-size: 18px;
-	letter-spacing: 2px;
+	font-size: 1.125rem;
+	letter-spacing: 0.125rem;
 	color: #8c8e9b;
+}
+
+.picture {
+	width: 100%;
 }
